@@ -94,3 +94,5 @@ Visual storytelling with profit and rating KPIs
 
 📷 Dashboard Preview
 
+
+https://github.com/kuldeep-sain/Power-Bi---Walmart-Data-Analyst-/blob/main/Walmart.png?raw=true
