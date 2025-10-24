@@ -68,15 +68,6 @@ DAX (Data Analysis Expressions)
 
 Data Modeling & Cleaning Techniques
 
-📂 Project Structure
-📁 Walmart-PowerBI-Dashboard
-│
-├── 📄 Walmart_Dashboard.pbix
-├── 📊 Walmart_Dashboard_Screenshot.png
-├── 📘 README.md
-└── 📂 Data
-     └── walmart_sales_data.csv
-
 🧾 Summary
 
 This dashboard helps track sales performance, profit trends, and customer ratings for Walmart’s major product categories.
@@ -95,4 +86,5 @@ Visual storytelling with profit and rating KPIs
 📷 Dashboard Preview
 
 
-https://github.com/kuldeep-sain/Power-Bi---Walmart-Data-Analyst-/blob/main/Walmart.png?raw=true
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b6009031-4c49-49e0-a33b-83f93ab16195" />
+
